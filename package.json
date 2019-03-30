@@ -1,0 +1,22 @@
+{
+  "name": "inyaservicellc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://robertomsoriano.github.io/inyaservicellc",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertomsoriano/inyaservicellc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertomsoriano/inyaservicellc/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
