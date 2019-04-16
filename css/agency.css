@@ -20,69 +20,59 @@
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
  * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
  * Copyright 2013-2019 
  * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
- */
-
-/*!
+ */ /*!
+ * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
+ * Copyright 2013-2019 
+ * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
+ */ /*!
+ * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
+ * Copyright 2013-2019 
+ * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
+ */ /*!
+ * Start Bootstrap -  v1.0.0 (https://robertomsoriano.github.io/inyaservicellc)
+ * Copyright 2013-2019 
+ * Licensed under ISC (https://github.com/BlackrockDigital/inyaservicellc/blob/master/LICENSE)
+ */ /*!
  * Start Bootstrap - Agency v5.0.7 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
@@ -97,14 +87,13 @@ p {
   line-height: 1.75;
 }
 a {
-  color: white !important;
+  color: #fff !important;
 }
 a:hover {
-  color: white !important;
+  color: #fff !important;
 }
 .text-primary {
-  /*color: #fed136 !important;*/
-  color: rgb(0, 127, 181) !important;
+  color: #007fb5 !important;
 }
 h1,
 h2,
@@ -151,14 +140,14 @@ section h3.section-subheading {
   padding: 20px 40px;
 }
 .btn-primary {
-  background-color: rgb(0, 127, 181);
-  border-color: rgb(0, 127, 181);
+  background-color: #007fb5;
+  border-color: #007fb5;
 }
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: rgb(57, 175, 226) !important;
-  border-color: rgb(0, 127, 181) !important;
+  background-color: #39afe2 !important;
+  border-color: #007fb5 !important;
   color: #fff;
 }
 .btn-primary:active,
@@ -167,7 +156,7 @@ section h3.section-subheading {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 ::selection {
-  background: rgb(0, 127, 181);
+  background: #007fb5;
   text-shadow: none;
 }
 img::selection {
@@ -186,13 +175,13 @@ img::-moz-selection {
   text-transform: uppercase;
   color: #fff;
   border: 0;
-  background-color: rgb(0, 127, 181);
+  background-color: #007fb5;
   font-family: Montserrat, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol", "Noto Color Emoji";
 }
 #mainNav .navbar-brand {
-  color: rgb(0, 127, 181) !important;
+  color: #007fb5 !important;
   font-family: "Kaushan Script", -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -201,7 +190,7 @@ img::-moz-selection {
 #mainNav .navbar-brand:active,
 #mainNav .navbar-brand:focus,
 #mainNav .navbar-brand:hover {
-  color: rgb(0, 127, 181);
+  color: #007fb5;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-size: 90%;
@@ -215,7 +204,7 @@ img::-moz-selection {
 }
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: rgb(0, 127, 181);
+  color: #007fb5;
 }
 @media (min-width: 992px) {
   #mainNav {
@@ -523,7 +512,7 @@ header.masthead .intro-text .intro-heading {
   color: #fff;
   border: 7px solid #e9ecef;
   border-radius: 100%;
-  background-color: rgb(0, 127, 181);
+  background-color: #007fb5;
 }
 .timeline > li .timeline-image h4 {
   font-size: 10px;
@@ -683,7 +672,7 @@ section#contact .form-group textarea.form-control {
   height: 248px;
 }
 section#contact .form-control:focus {
-  border-color: rgb(0, 127, 181);
+  border-color: #007fb5;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
@@ -755,5 +744,12 @@ ul.social-buttons li a {
 ul.social-buttons li a:active,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:hover {
-  background-color: rgb(0, 127, 181);
+  background-color: #007fb5;
+}
+
+@media only screen and (max-width: 600px) {
+  #movies {
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
 }
