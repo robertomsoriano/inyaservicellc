@@ -8,14 +8,12 @@ var client = window.SanityClient({
   // Find your project ID and dataset in `sanity.json` in your studio project
   projectId: "lwbohv37",
   dataset: "production",
-  useCDN: true
+  useCdn: true
 });
 
 // Fetch 50 documents of type `movie`, and select only the fields we need
 var query =
   '*[_type == "movie"]{"poster": poster.asset->url, title, releaseDate, description}';
-
-console.log(client.fetch(query));
 
 client
   .fetch(query)
