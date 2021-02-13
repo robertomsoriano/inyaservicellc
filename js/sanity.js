@@ -6,15 +6,15 @@
 
 var client = window.SanityClient({
   // Find your project ID and dataset in `sanity.json` in your studio project
-  projectId: "lwbohv37",
+  projectId: "dr0jvkad",
   dataset: "production",
-  useCdn: true
+  useCdn: false
 });
 
 // Fetch 50 documents of type `movie`, and select only the fields we need
 var query =
-  '*[_type == "movie"]{"poster": poster.asset->url, title, releaseDate, description}';
-
+  '*[_type == "post"]{"poster": poster.asset->url, title, releaseDate, description}';
+console.log(client.fetch(query))
 client
   .fetch(query)
   .then(renderMovies)
@@ -30,7 +30,7 @@ function renderMovies(movies) {
   }
   container.className = "col-lg-16 d-flex align-items-stretch";
   container.style =
-    "display: flex; flex-direction: row-reverse; justify-content: center; align-items: flex-end;";
+    "display: flex; justify-content: center; align-items: flex-end;";
   movies.map(function(movie) {
     container.appendChild(createMovieRow(movie));
   });
